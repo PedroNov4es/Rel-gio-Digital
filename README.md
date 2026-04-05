@@ -21,6 +21,7 @@ Relógio digital é um projeto simples que desenvolvi com foco em treinar minhas
 ---
 
 ## Estrutura do projeto
+```bash
  ├── index.html
  ├── script.js
  └── style.css
